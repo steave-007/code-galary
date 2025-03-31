@@ -1,5 +1,10 @@
 {
   "dependencies": {
-    "express": "^4.21.2"
+    "cors": "^2.8.5",
+    "export": "^0.1.337",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0",
+    "node": "^20.19.0",
+    "Router": "^2.1.0"
   }
 }
